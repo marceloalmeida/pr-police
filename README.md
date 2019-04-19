@@ -64,6 +64,9 @@ The list of private groups on your team where Pr. Police will post the announcem
 ##### `CHECK_INTERVAL`
 Time interval for announcing the pull-requests on slack. In milliseconds. Default: `3600000`.
 
+##### `DAYS_TO_CHECK`
+List of week days that Police will check for PR's". Default: `0,1,3,4,5,6,7`
+
 ##### `SLACK_BOT_NAME`
 The name of your Pr. Police bot on slack.
 
